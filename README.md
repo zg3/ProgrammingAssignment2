@@ -1,4 +1,6 @@
 ### Introduction
+This repository contains the code solution for my R programming assignment #2.  
+Assignment details:
 
 This second programming assignment will require you to write an R
 function that is able to cache potentially time-consuming computations.
